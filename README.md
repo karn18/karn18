@@ -14,8 +14,8 @@ Blog:
 - [karn18.github.io](https://karn18.github.io)
 
 Example:
-- [Strapi + NextJS](https://staging.karn.work)
 - [Svelte + Rails](https://svelte.karn.work)
+- [Rails + Hotwired + Stimulus](https://alpha.karn.work)
 
 ติดต่อเราได้ที่:
 - Email: karn+work@hey.com
