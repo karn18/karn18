@@ -14,7 +14,7 @@ Blog:
 - [karn18.github.io](https://karn18.github.io)
 
 Example:
-- [Svelte + Rails](https://svelte.karn.work)
+- [Surfup](https://surfup.karn.work)
 - [Rails + Hotwired + Stimulus](https://alpha.karn.work)
 
 ติดต่อเราได้ที่:
